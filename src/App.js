@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Drinks from "./components/Drinks"
 import './components/styles/App.css'
-import './components/styles/index.css'
+import "./components/styles/action.css"
 
 
 function App() {
