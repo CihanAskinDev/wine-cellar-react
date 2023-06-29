@@ -1,3 +1,11 @@
+.hover-effect {
+    transform: scale(1);
+    transition: transform 1.13s, filter 0.97s;
+}
+
+
 .hover-effect:hover {
     transform: scale(1.12);
+    filter: drop-shadow(0 10px 0.75rem #000000);
+    transition: 0.8s;
 }
